@@ -1,6 +1,6 @@
 # Lunar - Intelligent Systems
 
-This repository contains the source code for the official [Lunar](https://yourusername.github.io) landing page. 
+This repository contains the source code for the official [Lunar](https://unarchat.github.io) landing page. 
 
 Lunar is an AI-focused technology company developing intelligent systems that combine reasoning, automation, and human collaboration.
 
